@@ -1,45 +1,40 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Basant Bhattarai",
+    "label": "DevOps Engineer | AI & ML Researcher | Web Developer | Open Source and Linux Enthusiast",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "bkalpab9@gmail.com",
+    "phone": "+9779849870205",
+    "website": "https://bkalpa9.github.io/",
+    "summary": "I am a Computer Engineering graduate, have completed my B.Tech degree (2015-2019) from JNTU Anantapur, A.P. India in Computer Science and Engineering(CSE) with first class with distinction; I am very passionate about AI, ML and NLP applications.Actively looking to join Organization where I can Test my Skills, Research, Learn, Improve and Contribute.
+",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "address": "Kathmandu, Nepal",
+      "city": "Kathmandu",
+      "countryCode": "Nepal",
+      "region": "Bagmati"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "bkalpa9",
+        "url": "http://github.com/bkalpa9"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "bkalpa",
+        "url": "http://linkedin.com/in/bkalpa"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "network": "freelancer",
+        "username": "bkalpa",
+        "url": "https://www.freelancer.com/u/bkalpa?w=f"
       },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "",
       "keywords": [
         "Arduino",
         "TI MSP430"
