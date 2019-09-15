@@ -32,21 +32,32 @@
       },
     ]
   },
-  "interests": [
+  "Research Interests": [
     {
-      "name": "",
+      "name": "Artificial Intelligence",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Machine Learning",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Data Scienc",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Cyber Security",
+      "keywords": [
+      ]
+    },
+    
+    {
+      "name": "Linux & Open Source Technologies",
       "keywords": [
       ]
     }
@@ -60,15 +71,17 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "Bash",
+        "SQL",
+        "Nodejs"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "CentosOS",
         "Ubuntu",
         "Git/GitHub",
         "g++",
