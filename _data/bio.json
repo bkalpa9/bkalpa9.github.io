@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Basant Bhattarai",
-    "label": "DevOps Engineer | AI & ML Researcher | Web Developer | Open Source and Linux Enthusiast",
+    "label": "  Data Engineer | AI & ML Researcher | Web Developer | Open Source and Linux Enthusiast",
     "picture": "https://bkalpa9.github.io/images/basant_profile1.png ",
     "email": "bkalpab9@gmail.com",
     "phone": "+9779849870205",
@@ -26,39 +26,38 @@
         "url": "http://linkedin.com/in/bkalpa"
       },
       {
-        "network": "freelancer",
-        "username": "bkalpa",
-        "url": "https://www.freelancer.com/u/bkalpa?w=f"
+        "network": "fiverr",
+        "username": "TechnoBasant",
+        "url": "https://www.fiverr.com/users/technobasant/seller_dashboard"
       },
     ]
   },
   "interests": [
     {
       "name": "Artificial Intelligence",
-      "keywords": [
+      "keywords": ["AI", "ML", "NLP"
       ]
     },
     {
       "name": "Machine Learning",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
+      "keywords": ["ML", "NLP", "DNLP",
+       
       ]
     },
     {
       "name": "Data Science",
-      "keywords": [
+      "keywords": ["DS", "Data Piplines", "Big Data", "Database","Distributed Database System",
       ]
     },
     {
       "name": "Cyber Security",
-      "keywords": [
+      "keywords": ["Eathical Hacking", "Network Security"
       ]
     },
     
     {
       "name": "Linux & Open Source Technologies",
-      "keywords": [
+      "keywords": ["ARCH Linux", "Red Hat","Debian"
       ]
     }
   ],
@@ -91,87 +90,39 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
+      "institution": "JNTU Anantapur, A.P. India",
+      "area": "Computer Science",
+      "studyType": "B.Tech.",
+      "startDate": "2015",
+      "endDate": "2019",
+      "gpa": "8.2/10",
+     
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UXCam Pvt. Ltd",
+      "position": "Data Engineer",
+      "website": "www.uxcam.com",
+      "startDate": "2020-02-17",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Database Administrator, Backend Python and NodeJS Developer",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Continious Developement and Administration of SQL and NoSQL Based Distributed Database Systems",
+        "Development of data ingestion pipelines",
+        "Web scraping for data collection and processing",
+        "Backend code development for Data Analysis and Visualization using Python and Nodejs",
+        "REST Web Api development using Flask, Django amd Express framework in Python and NodeJS"
+        
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
+      "company": "Freelancing work",
+      "position": "Freelance backend developer and Data Engineer",
+      "website": "https://www.fiverr.com/users/technobasant/seller_dashboard",
+      "startDate": "2017 onwards",
+      "endDate": "present",
+      
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
 }
